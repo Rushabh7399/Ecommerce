@@ -1,0 +1,93 @@
+  .header
+  {
+    width: 100%;
+    height: 10%;
+  }
+  .h
+  {
+    text-align: center;
+  }
+   #content{
+    width: 100%;
+    height:35%;
+   
+   }
+   #a1{
+    width: 100%;
+
+    
+   }
+   /*form div{
+    margin-top: 5px;
+    text-align: center;
+   }*/
+   #img_div{
+    width: 100%;
+    height:100%;
+    
+    
+    
+   }
+   #img_div:after{
+    content: "";
+    display: block;
+    clear: both;
+   }
+   img{
+    float: left;
+    
+    width: 100%;
+    height: 100%;
+   }
+   .lab{
+    padding: 10px;
+    background: red; 
+    display: table;
+    color: #fff;
+    float: center;
+     }
+
+     .co
+     {
+      height: 700px;
+      width: 33%;
+      margin-left: 33%;
+      border:1px solid black;
+      background-color: grey;
+
+     }
+     .co2
+     {
+      width: 100%;
+      margin-top: 12%;
+     }
+     .a1
+     {
+      border: none;
+      background:transparent;
+      color: white;
+      font-size: 30px;
+
+     }
+     .r1
+     {
+        border: none;
+      background:transparent;
+      color: white;
+      font-size: 30px;
+     }
+     .done
+     {
+       display:inline-block;
+       height: 25px;
+
+
+
+     }
+
+
+
+input[type="file"] {
+    display: none;
+
+}
